@@ -1,1 +1,0 @@
-import{_ as e,o,c as t,a as c}from"./index-ja49U1mn.js";const s={},a={class:"about"},n=c("h1",null,"Sua comunidade tech em JF e região.",-1),_=[n];function r(d,i){return o(),t("div",a,_)}const l=e(s,[["render",r]]);export{l as default};
